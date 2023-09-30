@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://domain.com/</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/index.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/contacts.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/termsandconditions.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/privacypolicy.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/1.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/2.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/3.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/4.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://domain.com/5.html</loc>
+	<lastmod>2022-04-28T17:43:30+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
